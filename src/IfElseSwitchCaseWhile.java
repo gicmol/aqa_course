@@ -1,6 +1,6 @@
 package src;
 
-public class IfElseSwitchCaseWhile {
+public class    IfElseSwitchCaseWhile {
     public static void ForIf() {
         for (int q = 1; q < 6; q++) {
             if (q == 1) {
@@ -16,6 +16,7 @@ public class IfElseSwitchCaseWhile {
             }
         }
     }
+
 
     public static void SwitchCase()  {
         for (int b = 0; b <= 5; b++) {
